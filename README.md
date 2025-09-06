@@ -1,16 +1,30 @@
 ## Hi there 👋
 
-<!--
-**swasti12349/swasti12349** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m **Swasti Ranjan** — a software engineer passionate about building scalable back-end services, REST APIs, and AI-driven applications.
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
+- 🔭 Currently working on **Java / Kotlin microservices**, **REST API development**, and **AI-powered resume screening apps**.
+- 🌱 Exploring **Generative AI**, **Streamlit apps**, **AWS Cloud**, and **serverless architectures**.
+- 👯 Open to collaborating on **open-source Java, Android, AI/ML, and microservices projects**.
+- 💬 Ask me about **Java, Kotlin, REST APIs, microservices architecture, Jetpack Compose, Azure AD authentication, Streamlit, and GitHub Actions CI/CD**.
+- 📫 Reach me at: **swastiranjan64@gmail.com**
+- ⚡ Fun fact: I love blending **science, tech, and creative solutions** into real-world products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- **Languages:** Java, Kotlin, Python  
+- **Frameworks / Tools:** Spring Boot, Retrofit, Jetpack Compose, Streamlit, MSAL  
+- **Architecture:** REST APIs, Microservices, Event-driven systems  
+- **Cloud & DevOps:** AWS Lambda, Azure AD, GitHub Actions (CI/CD)  
+- **AI / ML:** OpenAI API, LLM integration, Resume ranking algorithms  
+
+### 📊 GitHub Stats
+![Swasti's GitHub stats](https://github-readme-stats.vercel.app/api?username=swasti12349&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swasti12349&layout=compact)
+
+### 🤝 Let’s Connect
+- [LinkedIn](https://www.linkedin.com/in/your-link-here)
+- [Portfolio](https://your-portfolio-link-here)
+
+---
+
+_Thanks for stopping by!_ ✨
