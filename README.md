@@ -1,51 +1,39 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Swasti Ranjan</h1>
+<h3 align="center">Building scalable Java/Kotlin microservices, REST APIs and AI-powered applications</h3>
 
-I’m **Swasti Ranjan** — a software engineer passionate about building scalable back-end services, REST APIs, microservices, and AI-driven applications.
+<img align="right" alt="Coding" width="400" src="https://spidyhackx.github.io/cv/images/programmer.gif">
 
-### 👨‍💻 About Me
-- 🔭 Currently working on **Java / Kotlin microservices**, **REST API development**, and **AI-powered resume screening apps**.
-- 🌱 Exploring **Generative AI**, **Streamlit apps**, **AWS Cloud**, and **serverless architectures**.
-- 👯 Open to collaborating on **open-source Java, Android, AI/ML, and microservices projects**.
-- 💬 Ask me about **Java, Kotlin, REST APIs, microservices architecture, Jetpack Compose, Azure AD authentication, Streamlit, and GitHub Actions CI/CD**.
-- 📫 Reach me at: **swastiranjan64@gmail.com**
-- ⚡ Fun fact: I love blending **science, tech, and creative solutions** into real-world products.
+- 🔭 Currently working on **Java / Kotlin microservices** and **AI-powered resume screening apps**
+- 🌱 Exploring **Generative AI**, **Streamlit**, **AWS Lambda**, **serverless architectures**
+- 💬 Ask me about **Java, Kotlin, REST APIs, microservices, Jetpack Compose, Azure AD authentication, Streamlit, GitHub Actions CI/CD**
+- 📫 How to reach me **swastiranjan64@gmail.com**
+- ⚡ Fun fact **I love blending science, tech and creativity into real-world products**
 
-### 🛠️ Tech Stack
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/your-link-here" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://twitter.com/yourhandle" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+<a href="https://instagram.com/yourhandle" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+</p>
 
-#### Languages & Frameworks  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+  <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring boot" width="40" height="40"/> </a>
+  <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/fastapi/fastapi-icon.svg" alt="REST API" width="40" height="40"/> </a>
+  <a href="https://aws.amazon.com/lambda/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS Lambda" width="40" height="40"/> </a>
+  <a href="https://azure.microsoft.com/en-us/services/active-directory/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure AD" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://github.com/features/actions" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub Actions" width="40" height="40"/> </a>
+  <a href="https://openai.com" target="_blank"> <img src="https://seeklogo.com/images/O/open-ai-logo-8B9BFEDC26-seeklogo.com.png" alt="OpenAI" width="40" height="40"/> </a>
+  <a href="https://streamlit.io" target="_blank"> <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="Streamlit" width="40" height="40"/> </a>
+  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+</p>
 
-#### Architecture  
-![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=microgenetics&logoColor=white)
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=swasti12349&show_icons=true&locale=en&layout=compact" alt="swasti12349" /></p>
 
-#### Cloud & DevOps  
-![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
-![Azure AD](https://img.shields.io/badge/Azure%20AD-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swasti12349&show_icons=true&locale=en" alt="swasti12349" /></p>
 
-#### AI / ML  
-![OpenAI API](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LLM Integration](https://img.shields.io/badge/LLM%20Integration-000000?style=for-the-badge&logo=openai&logoColor=white)
-
----
-
-### 📊 GitHub Stats  
-![Swasti's GitHub stats](https://github-readme-stats.vercel.app/api?username=swasti12349&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swasti12349&layout=compact)
-
-![Profile Views](https://komarev.com/ghpvc/?username=swasti12349&color=blue)
-![GitHub followers](https://img.shields.io/github/followers/swasti12349?label=Follow&style=social)
-![GitHub stars](https://img.shields.io/github/stars/swasti12349?affiliations=OWNER%2CCOLLABORATOR&style=social)
-
-### 🤝 Let’s Connect  
-- [LinkedIn](https://www.linkedin.com/in/swastiranjanojha/)
-
----
-
-_Thanks for stopping by!_ ✨
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swasti12349&" alt="swasti12349" /></p>
